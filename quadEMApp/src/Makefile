@@ -15,7 +15,7 @@ DBD += drvAHxxx.dbd
 DBD += drvTetrAMM.dbd
 DBD += drvNSLS_EM.dbd
 DBD += quadEMTestApp.dbd
-DBD += quadEMTestAppVx.dbd
+#DBD += quadEMTestAppVx.dbd
 
 INC += drvQuadEM.h
 
